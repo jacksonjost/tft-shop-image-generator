@@ -1,5 +1,8 @@
 # TFT Shop Image Generator
 
+![TFT Shop Image Generator Example]([https://your-image-url.com/image.png](https://github.com/jacksonjost/tft-shop-image-generator/blob/main/example.png))
+
+
 A Python script to generate the icons seen in the shop for Teamfight Tactics (TFT).
 
 ## Requirements

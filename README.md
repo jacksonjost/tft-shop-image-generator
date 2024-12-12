@@ -1,7 +1,7 @@
 # TFT Shop Image Generator
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jacksonjost/tft-shop-image-generator/main/example.png" alt="TFT Shop Image Generator Example" width="216"/>
+  <img src="https://raw.githubusercontent.com/jacksonjost/tft-shop-image-generator/main/coverimage.png" alt="TFT Shop Image Generator Example" width="680"/>
 </div>
 
 A Python script to generate the icons seen in the shop for Teamfight Tactics (TFT). The script automatically pulls the latest set image data from Data Dragon (image, name, cost) and generates the corresponding images.

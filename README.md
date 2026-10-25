@@ -17,7 +17,7 @@ A Python script to generate the icons seen in the shop for Teamfight Tactics (TF
 1. **Clone the repo:**
 
     ```bash
-    git clone https://github.com/yourusername/tft-icon-generator.git
+    git clone https://github.com/jacksonjost/tft-shop-image-generator.git
     cd tft-icon-generator
     ```
 
